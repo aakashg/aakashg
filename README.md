@@ -4,7 +4,7 @@ I build AI tools for product managers and ship working examples that PMs can use
 
 Most of my work is hands-on: real prompts, tested Claude Code skills, and practical setups for PM workflows — PRD writing, competitive analysis, stakeholder updates, launch planning, and metrics definition.
 
-I write [Product Growth](https://www.news.aakashg.com), the world's largest AI product management newsletter (300K+ subscribers), where I publish the complete deep dives and full toolkits.
+I write [Product Growth](https://www.news.aakashg.com), the world's largest AI product management newsletter (215K+ subscribers), where I publish the complete deep dives and full toolkits.
 
 ### What I work on
 
@@ -20,7 +20,7 @@ I write [Product Growth](https://www.news.aakashg.com), the world's largest AI p
 - **Head of Growth Product at Affirm** during revenue growth from $300M to $1.2B/year. Member of the senior product leadership team
 - **Lead PM on Fortnite at Epic Games** during some of its best-performing years, including the Travis Scott Concert and launch of Chapter 2
 - **Wharton MBA** in Entrepreneurship. **University of Michigan** BS in Economics and Psychology
-- Author of [Product Growth](https://www.news.aakashg.com) (300K+ subscribers) and [AI by Aakash](https://www.aibyaakash.com)
+- Author of [Product Growth](https://www.news.aakashg.com) (215K+ subscribers) and [AI by Aakash](https://www.aibyaakash.com)
 - Previously helped PMs land roles at OpenAI, Anthropic, Google, and Meta
 
 The repos here are starter versions — fully functional on their own. The full PM Prompt Library has 82 prompts across 12 categories (vs. 5 here). The full PM OS has 41+ skills, 7 sub-agents, and a complete context library (vs. 1 skill here). I publish the complete systems for [Product Growth](https://www.news.aakashg.com) subscribers.
