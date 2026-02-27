@@ -1,6 +1,6 @@
 # Hi, I'm Aakash
 
-I build AI tools for product managers and ship working examples that PMs can use right away.
+I build AI tools for product managers and ship working examples that PMs can use right away. 
 
 Most of my work is hands-on: real prompts, tested Claude Code skills, and practical setups for PM workflows — PRD writing, competitive analysis, stakeholder updates, launch planning, and metrics definition.
 
