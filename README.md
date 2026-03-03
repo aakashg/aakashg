@@ -16,7 +16,6 @@
 | **[pm-claude-skills](https://github.com/aakashg/pm-claude-skills)** | 5 drop-in Claude Code skills for PM work | `cp -r skills/* .claude/skills/` |
 | **[pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup)** | Ready-to-use CLAUDE.md + PRD writer skill | `cp CLAUDE.md your-project/` |
 | **[pm-prompt-library](https://github.com/aakashg/pm-prompt-library)** | 5 battle-tested AI prompts for PM workflows | Copy, paste, customize |
-| **[pm-github-starter-kit](https://github.com/aakashg/pm-github-starter-kit)** | Templates and checklist to build a PM GitHub profile | Fork and follow the checklist |
 
 ### Background
 
