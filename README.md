@@ -12,10 +12,10 @@
 
 | Repo | What It Is | Stars |
 |------|-----------|:-----:|
-| **[pm-claude-skills](https://github.com/aakashg/pm-claude-skills)** | 5 drop-in Claude Code skills — LinkedIn posts, idea validation, prompt engineering, design review, status updates | ![Stars](https://img.shields.io/github/stars/aakashg/pm-claude-skills?style=flat-square&label=) |
-| **[pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup)** | Ready-to-use CLAUDE.md + PRD writer skill for Claude Code | ![Stars](https://img.shields.io/github/stars/aakashg/pm-claude-code-setup?style=flat-square&label=) |
-| **[awesome-ai-pm](https://github.com/aakashg/awesome-ai-pm)** | Curated guide to AI product management — frameworks, tools, career resources | ![Stars](https://img.shields.io/github/stars/aakashg/awesome-ai-pm?style=flat-square&label=) |
-| **[pm-prompt-library](https://github.com/aakashg/pm-prompt-library)** | 5 battle-tested AI prompts for PM workflows — user stories, competitive analysis, launch risk, metrics, updates | ![Stars](https://img.shields.io/github/stars/aakashg/pm-prompt-library?style=flat-square&label=) |
+| **[pm-claude-skills](https://github.com/aakashg/pm-claude-skills)** | 5 drop-in Claude Code skills — LinkedIn posts, idea validation, prompt engineering, design review, status updates | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-skills?style=flat-square) |
+| **[pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup)** | Ready-to-use CLAUDE.md + 6 skills + 4 templates for Claude Code | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-code-setup?style=flat-square) |
+| **[awesome-ai-pm](https://github.com/aakashg/awesome-ai-pm)** | Curated guide to AI product management — frameworks, tools, career resources | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/awesome-ai-pm?style=flat-square) |
+| **[pm-prompt-library](https://github.com/aakashg/pm-prompt-library)** | 5 battle-tested AI prompts for PM workflows — user stories, competitive analysis, launch risk, metrics, updates | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-prompt-library?style=flat-square) |
 
 ### Background
 
