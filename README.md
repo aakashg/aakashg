@@ -8,28 +8,40 @@
 
 ---
 
-### Repos
+### New
 
 | Repo | What It Is | Stars |
 |------|-----------|:-----:|
-| **[pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup)** | Ready-to-use CLAUDE.md + 6 skills + 4 templates for Claude Code | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-code-setup?style=flat-square) |
-| **[pm-claude-skills](https://github.com/aakashg/pm-claude-skills)** | 5 drop-in Claude Code skills — LinkedIn posts, idea validation, prompt engineering, design review, status updates | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-skills?style=flat-square) |
+| **[ship-to-production-kit](https://github.com/aakashg/ship-to-production-kit)** | Let anyone on your team ship to production with three Claude Code agents and two human gates | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/ship-to-production-kit?style=flat-square) |
+| **[ai-pm-job-radar](https://github.com/aakashg/ai-pm-job-radar)** | Every open PM role at 36 AI and tech companies, sorted into AI PM and non-AI PM | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/ai-pm-job-radar?style=flat-square) |
+| **[customer-research-agent](https://github.com/aakashg/customer-research-agent)** | Greg Greiner's customer research agent in Claude Code, from The Growth Podcast | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/customer-research-agent?style=flat-square) |
+
+### Most starred
+
+| Repo | What It Is | Stars |
+|------|-----------|:-----:|
+| **[pm-claude-code-setup](https://github.com/aakashg/pm-claude-code-setup)** | Ready-to-use CLAUDE.md, 6 skills and 4 templates for Claude Code | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-code-setup?style=flat-square) |
+| **[pm-claude-skills](https://github.com/aakashg/pm-claude-skills)** | 5 drop-in Claude Code skills for LinkedIn posts, idea validation, prompt engineering, design review and status updates | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-claude-skills?style=flat-square) |
+| **[pm-planning-system](https://github.com/aakashg/pm-planning-system)** | A planning system for PM teams in the AI era. Specs live next to code and Claude Code reads them automatically | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-planning-system?style=flat-square) |
+| **[product-growth-team-os](https://github.com/aakashg/product-growth-team-os)** | Shared knowledge base starter kit for AI-native product teams, with 5 shared skills and an adoption playbook | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/product-growth-team-os?style=flat-square) |
 | **[pm-github-starter-kit](https://github.com/aakashg/pm-github-starter-kit)** | Profile templates, project READMEs, AI coding prompts, and a 3-week checklist to build a PM GitHub that gets you hired | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-github-starter-kit?style=flat-square) |
-| **[awesome-ai-pm](https://github.com/aakashg/awesome-ai-pm)** | Curated guide to AI product management — frameworks, tools, career resources | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/awesome-ai-pm?style=flat-square) |
-| **[pm-prompt-library](https://github.com/aakashg/pm-prompt-library)** | 25 battle-tested AI prompts for PMs — free sample from the full 82-prompt library | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-prompt-library?style=flat-square) |
+| **[awesome-ai-pm](https://github.com/aakashg/awesome-ai-pm)** | Curated guide to AI product management: frameworks, tools and career resources | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/awesome-ai-pm?style=flat-square) |
+| **[pm-prompt-library](https://github.com/aakashg/pm-prompt-library)** | 25 battle-tested AI prompts for PMs, a free sample from the full 82-prompt library | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/pm-prompt-library?style=flat-square) |
+| **[claude-routines-and-agents-pm-pack](https://github.com/aakashg/claude-routines-and-agents-pm-pack)** | Prompts, sample outputs and a rollout plan for Claude Routines and Managed Agents | ![GitHub Repo stars](https://img.shields.io/github/stars/aakashg/claude-routines-and-agents-pm-pack?style=flat-square) |
 
 ### Background
 
-- **VP Product at Apollo.io** — led growth, pricing & packaging, activation, expansion during the $750M to $2.5B unicorn run
-- **Head of Growth Product at Affirm** — revenue growth from $300M to $1.2B/year. Senior product leadership team
-- **Lead PM on Fortnite at Epic Games** — Travis Scott Concert, Chapter 2 launch
+- **VP Product at Apollo.io.** Led growth, pricing and packaging, activation and expansion during the $750M to $2.5B unicorn run
+- **Head of Growth Product at Affirm.** Revenue growth from $300M to $1.2B a year, on the senior product leadership team
+- **Lead PM on Fortnite at Epic Games.** Travis Scott Concert, Chapter 2 launch
 - **Wharton MBA** (Entrepreneurship) / **University of Michigan** (Economics, Psychology)
 - Author of [Product Growth](https://www.news.aakashg.com) (300K+ subscribers) and [AI by Aakash](https://www.aibyaakash.com)
+- Host of [The Growth Podcast](https://www.youtube.com/@growproduct)
 - Helped PMs land roles at OpenAI, Anthropic, Google, and Meta
 
 ### Go deeper
 
-Everything here is free and functional. I publish extended versions for [Product Growth](https://www.news.aakashg.com) subscribers:
+Everything here is free and works today. I publish extended versions for [Product Growth](https://www.news.aakashg.com) subscribers:
 
-- **[PM Prompt Library](https://www.news.aakashg.com/p/pm-prompt-library)** — 82 prompts across 12 PM categories
-- **[PM Operating System](https://www.news.aakashg.com/p/pm-os)** — full Claude Code setup with 41+ skills and 7 sub-agent perspectives
+- **[PM Prompt Library](https://www.news.aakashg.com/p/pm-prompt-library)**: 82 prompts across 12 PM categories
+- **[PM Operating System](https://www.news.aakashg.com/p/pm-os)**: full Claude Code setup with 41+ skills and 7 sub-agent perspectives
